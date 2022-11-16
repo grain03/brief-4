@@ -1,0 +1,1287 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Asap', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+   }
+
+ body{    background-color: #121640;
+ }
+
+.menu{
+    position: absolute;
+    background-image: url('./pexels-maël-balland-13713032.jpg') ;
+    width: 100%;
+    height: 37EM;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu .logo{
+    position: absolute;
+    width: 211PX;
+    TOP: -45PX;
+    left: 38PX;
+
+}
+.menu ul{
+    position: absolute;
+    left: 819px;
+    top: 60px;
+}
+
+.menu ul li{
+    padding: 13px;
+    display: inline;
+
+}
+
+.menu ul li a{
+    color: white;
+    transition: 1s;
+}
+.menu ul li a:hover{
+    color: #FFE81A;
+
+}
+
+
+
+
+header{
+    position: absolute;
+    left: 63px;
+    top: 8EM;
+    color: white;
+}
+
+
+header h3{
+    font-weight: 100;
+    font-size: 0.8EM;
+}
+
+header h1{
+    font-weight: 900;
+    font-size: 2EM;
+    width: 40%;
+
+}
+
+header h1 span{
+    color: #FFE81A;
+    text-transform: uppercase;
+}
+
+
+header a{
+    color: #121640;
+    background-color: white;
+    padding: 15PX 75PX;
+    MARGIN-TOP: 13px;
+    BORDER-RADIUS: 27PX;
+    border: none;
+    font-weight: 900;
+    position: absolute;
+    transition: 0.7S;
+}
+
+
+header a:hover{
+    color:white ;
+    background-color:#121640 ;
+
+}
+
+header UL{
+    position: absolute;
+    RIGHT: 60PX;
+    top: 57px;
+}
+
+header UL li{
+    padding: 5px;
+    transition: 0.7S;
+}
+
+header UL li:HOVER{
+color: #FFE81A;
+}
+
+
+
+
+.TOP{
+
+    position: absolute;
+    TOP: 38EM;
+    left: 39%;
+}
+
+.TOP H1{
+color: white;
+text-align: center;
+
+}
+
+
+
+.MOROCCO1{
+    position: absolute;
+    width: 85%;
+    RIGHT: 200px;
+    TOP: 69px;
+    height: 953%;
+    background: url(morocco-oriental-marrakech-orient.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 17px;
+    filter: brightness(95%);
+    transition: 0.8s;
+
+}
+
+.MOROCCO1:hover{
+                        
+    TOP: 55px;
+
+
+}
+
+
+
+.MOROCCO1 H2,H4{
+font-weight: 100;
+position: relative;
+text-align: center;
+color: #FFFFFF;
+TOP: 125px;
+}
+
+
+.MOROCCO1 H2{
+font-weight: 900;
+font-size: 45PX;
+    }
+    
+    
+
+    .MOROCCO1 A{
+        position: relative;
+        font-weight: 900;
+        font-size: 13PX;
+        DISPLAY: inline-grid;
+        color: #FFFFFF;
+        top: 245PX;
+        left: 20PX;
+    }
+    
+    .MOROCCO1 A span{
+    font-size: 8PX;
+    font-weight: 100;
+}
+    
+                
+            
+                    .MOROCCO1 h5{
+                        position: ABSOLUTE;
+                        font-size: 17PX;
+                        font-weight: 900;
+                        top: 15PX;
+                        color: BLACK;
+                        background-color: #FFE81A;
+                        left: 20PX;
+                        padding: 8PX 11px;
+                        border-radius: 10PX;
+                    }
+                
+
+
+
+
+
+
+
+
+                    .MOROCCO2{
+                        position: absolute;
+                        width: 85%;
+                        left: 150px;
+                        TOP: 69px;
+                        height: 953%;
+                        background: url(morocco-africa-city-house-river-dusk-desert-wallpaper-preview.jpg) no-repeat;
+                        background-position: center;
+                        background-size: cover;
+                        border-radius: 17px;
+                        filter: brightness(95%);
+                    transition: 0.8s;
+                    }
+                    
+                    
+                    .MOROCCO2:hover{
+                        
+                        TOP: 55px;
+                    
+                    
+                    }
+                    
+                    
+                    .MOROCCO2 H2,H4{
+                    font-weight: 100;
+                    position: relative;
+                    text-align: center;
+                    color: #FFFFFF;
+                    TOP: 125px;
+                    }
+                    
+                    
+                    .MOROCCO2 H2{
+                    font-weight: 900;
+                    font-size: 45PX;
+                        }
+                        
+                        
+                    
+                        .MOROCCO2 A{
+                            position: relative;
+                            font-weight: 900;
+                            font-size: 13PX;
+                            DISPLAY: inline-grid;
+                            color: #FFFFFF;
+                            top: 245PX;
+                            left: 20PX;
+                        }
+                        
+                        .MOROCCO2 A span{
+                        font-size: 8PX;
+                        font-weight: 100;
+                    }
+                        
+                                    
+                                
+                                        .MOROCCO2 h5{
+                                            position: ABSOLUTE;
+                                            font-size: 17PX;
+                                            font-weight: 900;
+                                            top: 15PX;
+                                            color: BLACK;
+                                            background-color: #FFE81A;
+                                            left: 20PX;
+                                            padding: 8PX 11px;
+                                            border-radius: 10PX;
+                                        }
+                                    
+                    
+
+
+
+
+
+
+                                        .MOROCCO3{
+                                            position: absolute;
+                                            width: 85%;
+                                            left: 458px;
+                                            
+                                            TOP: 69px;
+                                            height: 953%;
+                                            background: url(20.jpg) no-repeat;
+                                            background-position: center;
+                                            background-size: cover;
+                                            border-radius: 17px;
+                                            filter: brightness(95%);
+                                            transition: 0.8s;
+
+                                        }
+                                        .MOROCCO3:hover{
+                        
+                                            TOP: 55px;
+                                        
+                                        
+                                        }
+                                        
+                    
+                                        
+                                        
+                                        .MOROCCO3 H2,H4{
+                                        font-weight: 100;
+                                        position: relative;
+                                        text-align: center;
+                                        color: #FFFFFF;
+                                        TOP: 125px;
+                                        }
+                                        
+                                        
+                                        .MOROCCO3 H2{
+                                        font-weight: 900;
+                                        font-size: 45PX;
+                                            }
+                                            
+                                            
+                                        
+                                            .MOROCCO3 A{
+                                                position: relative;
+                                                font-weight: 900;
+                                                font-size: 13PX;
+                                                DISPLAY: inline-grid;
+                                                color: #FFFFFF;
+                                                top: 245PX;
+                                                left: 20PX;
+                                            }
+                                            
+                                            .MOROCCO3 A span{
+                                            font-size: 8PX;
+                                            font-weight: 100;
+                                        }
+                                            
+                                                        
+                                                    
+                                                            .MOROCCO3 h5{
+                                                                position: ABSOLUTE;
+                                                                font-size: 17PX;
+                                                                font-weight: 900;
+                                                                top: 15PX;
+                                                                color: BLACK;
+                                                                background-color: #FFE81A;
+                                                                left: 20PX;
+                                                                padding: 8PX 11px;
+                                                                border-radius: 10PX;
+                                                            }
+                                                        
+                                        
+                    
+                    
+                    
+                    
+                    
+
+
+                                                            .MOROCCO4{
+                                                                position: absolute;
+                                                                width: 85%;
+                                                                right: 488px;
+                                                                TOP: 69px;
+                                                                height: 953%;
+                                                                background: url(Chefchaouen-Morocco-shops-rugs.jpg) no-repeat;
+                                                                background-position: center;
+                                                                background-size: cover;
+                                                                border-radius: 17px;
+                                                                filter: brightness(95%);
+                                                            transition: 0.8s;
+                                                            }
+                                                            
+                                                            .MOROCCO4:hover{
+                        
+                                                                TOP: 55px;
+                                                            
+                                                            
+                                                            }
+                                                            
+                                        
+                                                            
+                                                            .MOROCCO4 H2,H4{
+                                                            font-weight: 100;
+                                                            position: relative;
+                                                            text-align: center;
+                                                            color: #FFFFFF;
+                                                            TOP: 125px;
+                                                            }
+                                                            
+                                                            
+                                                            .MOROCCO4 H2{
+                                                            font-weight: 900;
+                                                            font-size: 45PX;
+                                                                }
+                                                                
+                                                                
+                                                            
+                                                                .MOROCCO4 A{
+                                                                    position: relative;
+                                                                    font-weight: 900;
+                                                                    font-size: 13PX;
+                                                                    DISPLAY: inline-grid;
+                                                                    color: #FFFFFF;
+                                                                    top: 245PX;
+                                                                    left: 20PX;
+                                                                }
+                                                                
+                                                                .MOROCCO4 A span{
+                                                                font-size: 8PX;
+                                                                font-weight: 100;
+                                                            }
+                                                                
+                                                                            
+                                                                        
+                                                                                .MOROCCO4 h5{
+                                                                                    position: ABSOLUTE;
+                                                                                    font-size: 17PX;
+                                                                                    font-weight: 900;
+                                                                                    top: 15PX;
+                                                                                    color: BLACK;
+                                                                                    background-color: #FFE81A;
+                                                                                    left: 20PX;
+                                                                                    padding: 8PX 11px;
+                                                                                    border-radius: 10PX;
+                                                                                }
+
+                                                                                .ABOUT{
+
+                                                                                    position: absolute;
+    TOP: 70EM;
+    left: 7%;
+                                                                                }
+                                                                                
+                                                                                .ABOUT H1{
+                                                                                    color: white;
+                                                                                    POSITION: relative;
+                                                                                    text-align: center;
+                                                                                    BOTTOM: 40px;
+                                                                                    LEFT: 460px;
+                                                                                
+                                                                                
+                                                                                }
+
+                                                                            
+                                                                                
+                                                                                .ABOUT IMG{
+                                                                                position: absolute;
+                                                                                width: 200PX;
+                                                                                border-radius:7PX ;
+
+                                                                                }
+
+                                                                                .ABOUT P{
+                                                                                    COLOR: white;
+    position: absolute;
+    width: 590px;
+    left: 235PX;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 36px;
+    align-items: center;
+    text-transform: capitalize;
+                                                                                    }
+                                                                                
+                                                                                
+                                                                            
+   .FINDUS{
+    position: absolute;
+    top: 97EM;    left: 15%;
+
+   }                 
+.FINDUS h1{
+    color: white;
+    POSITION: relative;
+    padding-bottom: 17PX;
+    left: 7%;
+}
+
+.FINDUS img{
+    position: relative;
+    width: 300px;
+    top: 77%;
+    left: 7%;
+    border-radius:7PX ;
+
+}
+.FINDUS I{
+    position: ABSOLUTE;
+    color: #121640;
+    TOP: 50%;
+    RIGHT: 47%;
+    transition: 0.7s;
+
+}
+
+.FINDUS I:hover{
+font-size: 27PX;
+TOP: 48%;
+RIGHT: 45%;
+}
+
+
+.CONTACTUS{
+position: absolute;
+top: 97EM;
+left: 50%
+}
+
+.CONTACTUS P{
+    color: #FFFFFF;
+    width: 277PX;
+    font-size: 10PX;
+    font-weight: 100;
+    }
+    
+.CONTACTUS H1{
+    color: white;
+    POSITION: relative;
+    padding-bottom: 17PX;
+
+}
+
+
+.CONTACTUS FORM H3{
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 100;
+    top: 13PX;
+    POSITION: RELATIVE;
+}
+
+.CONTACTUS FORM input{
+width: 100%;
+padding-bottom: 18PX;
+border: 1PX SOLID #fff;
+background-color: #121640;
+border-radius:7PX ;
+color: #fff;
+    }
+    .CONTACTUS FORM{
+        line-height: 35Px;
+        POSITION: RELATIVE;
+        BOTTOM: 9px;}
+ 
+.CONTACTUS button{
+    position: relative;
+    PADDING: 10px;
+    width: 100%;
+    font-weight: 900;
+    align-items: center;
+    text-align: center;
+    border-radius:7PX ;
+    transition: 0.7s;
+}
+
+.CONTACTUS button:hover{
+    background-color: #121640;
+    color: #fff;
+border: 1PX solid white;
+}
+
+.sponsors{
+    position: absolute;
+    top: 125EM;
+    left: 27%;
+    align-items: center;
+    text-align: center;
+
+    
+}
+
+.sponsors H1{
+color: #fff;
+    
+}
+
+.sponsors-img{
+   display: flex;
+   flex-wrap: wrap;
+ }
+ 
+ .sponsors-img img{
+    width: 70PX;
+    line-height: 19;
+    margin: 20px;
+    border-radius: 43px;
+
+ }
+
+ .FOOTER {
+    position: absolute;
+    top: 140EM;
+    LEFT: 42%;
+}
+
+.LINE{
+    border: 1PX solid white;
+    padding-left: 88%;
+}
+
+
+.COPYRIGHT {
+    COLOR: WHITE;
+    ALIGN-ITEMS: CENTER;
+    TEXT-ALIGN: CENTER;
+    PADDING-TOP: 3EM;
+    padding-bottom: 7EM;
+}
+
+
+ @media ALL and (min-width: 800px) and (max-width: 1200px) {
+
+    .MOROCCO4 {
+        position: absolute;
+        width: 85%;
+        TOP: 447px;
+        RIGHT: 200px;
+        height: 953%;
+        background: url(Chefchaouen-Morocco-shops-rugs.jpg) no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 17px;
+        filter: brightness(95%);
+    }
+
+    .MOROCCO4:hover{
+                        
+        TOP: 430px;
+    
+    
+    }
+    
+
+    .FOOTER {
+        position: absolute;
+        top: 160EM;
+        LEFT: 42%;
+    }
+    
+
+    .MOROCCO3 {
+        position: absolute;
+        width: 85%;
+        left: 150PX;
+        TOP: 447px;
+        height: 953%;
+        background: url(20.jpg) no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 17px;
+        filter: brightness(95%);
+    }
+    .MOROCCO3:hover{
+                        
+        TOP: 430px;
+    
+    
+    }
+    
+    .ABOUT P {
+        COLOR: white;
+        position: absolute;
+        width: 370px;
+        left: 210PX;
+        TOP: 37px;
+        font-weight: 100;
+        font-size: 17px;
+        line-height: 27px;
+        align-items: center;
+        text-transform: capitalize;
+    }    
+    
+
+    .sponsors {
+        position: absolute;
+        top: 149EM;
+        left: 27%;
+        align-items: center;
+        text-align: center;
+    }
+    .ABOUT {
+        position: absolute;
+        TOP: 95EM;
+        left: 17%;
+    }
+    .ABOUT H1 {
+        color: white;
+        POSITION: relative;
+        BOTTOM: 40px;
+        LEFT: 230px;
+    }    
+    .FINDUS {
+        position: absolute;
+        top: 122EM;
+        left: 15%;
+
+    }
+    .CONTACTUS {
+        position: absolute;
+        top: 122EM;
+        left: 58%;
+    }
+
+    .menu ul li{
+display: none;    }
+
+ }
+
+
+
+
+
+
+
+@media (min-width: 700px) and (max-width: 800px) {
+
+    body{    background-color: #121640;
+    }
+
+    .sponsors{
+        position: absolute;
+        top: 143EM;
+        left: 20%;
+    
+        
+    }
+    .FOOTER {
+        position: absolute;
+        top: 160EM;
+        LEFT: 42%;
+    }
+    
+    .CONTACTUS {
+        position: absolute;
+        top: 117EM;
+        left: 28%;
+    }
+
+
+.FINDUS {
+    position: absolute;
+    top: 88EM;
+    left: 23%;
+}
+
+.ABOUT {
+    position: absolute;
+    TOP: 73EM;
+    left: 20%;}
+.ABOUT P {
+    COLOR: white;
+    position: absolute;
+    width: 220px;
+    left: 210PX;
+    TOP: -167px;
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 27px;
+    align-items: center;
+    text-transform: capitalize;    }
+
+    .ABOUT H1 {
+        color: white;
+        POSITION: relative;
+        text-align: center;
+        BOTTOM: 245px;
+        LEFT: 160px;
+    }
+
+
+    .ABOUT IMG {
+        position: absolute;
+        width: 200PX;
+        TOP: -165px;
+    }
+
+
+    .menu{
+        position: absolute;
+        background-image: url('./pexels-maël-balland-13713032.jpg') ;
+        width: 100%;
+        height: 80vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .menu .logo{
+        position: absolute;
+    width: 185PX;
+    TOP: -50PX;
+    left: 13PX;
+    }
+    
+
+
+
+
+
+    .menu ul li{
+        padding: 13px;
+        display: none;
+    
+    }
+    
+
+
+    header {
+        position: absolute;
+        left: 32px;
+        FONT-SIZE: 10px;
+        top: 145px;
+        color: white;
+    }
+
+
+
+
+    header a {
+        color: #121640;
+        background-color: white;
+        padding: 9PX 45PX;
+        MARGIN-TOP: 13px;
+        BORDER-RADIUS: 27PX;
+        border: none;
+        font-weight: 900;
+        position: absolute;
+        transition: 0.7S;
+    }
+
+
+
+
+    header UL {
+        position: absolute;
+        RIGHT: 48PX;
+        top: 28px;
+    }
+
+
+
+    .TOP{
+
+        position: absolute;
+        TOP: 88%;
+        left: 39%;
+    }
+    
+
+    .TOP H1{
+        position: RELATIVE;
+        RIGHT: 60PX;
+        color: white;
+        text-align: center;        
+        }
+        
+
+    .MOROCCO1{
+
+    position: absolute;
+    width: 70%;
+    RIGHT: 245px;
+    TOP: 69px;
+    height: 788%;
+    background: url(morocco-oriental-marrakech-orient.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 17px;
+    filter: brightness(95%);
+    }
+
+
+
+    .MOROCCO1 H2,H4{
+        font-weight: 100;
+        position: relative;
+        text-align: center;
+        color: #FFFFFF;
+        TOP: 125px;
+        }
+        
+        
+        .MOROCCO1 H2{
+        font-weight: 900;
+        font-size: 41PX;
+            }
+            
+            
+        
+            .MOROCCO1 A{
+                position: relative;
+                font-weight: 900;
+                font-size: 13PX;
+                DISPLAY: inline-grid;
+                color: #FFFFFF;
+                top: 188PX;
+                left: 20PX;
+            }
+            
+            .MOROCCO1 A span{
+            font-size: 8PX;
+            font-weight: 100;
+        }
+            
+                        
+                    
+                            .MOROCCO1 h5{
+                                position: ABSOLUTE;
+                                font-size: 17PX;
+                                font-weight: 900;
+                                top: 15PX;
+                                color: BLACK;
+                                background-color: #FFE81A;
+                                left: 20PX;
+                                padding: 8PX 11px;
+                                border-radius: 10PX;
+                            }
+                        
+        
+        
+        
+
+
+
+                            .MOROCCO2{
+
+                                position: absolute;
+                                width: 70%;
+                                left: 70px;
+                                TOP: 69px;
+                                height: 788%;
+                                background: url(morocco-africa-city-house-river-dusk-desert-wallpaper-preview.jpg) no-repeat;
+                                background-position: center;
+                                background-size: cover;
+                                border-radius: 17px;
+                                filter: brightness(95%);
+                                }
+                            
+                                .MOROCCO2 H2,H4{
+                                    font-weight: 100;
+                                    position: relative;
+                                    text-align: center;
+                                    color: #FFFFFF;
+                                    TOP: 125px;
+                                    }
+                                    
+                                    
+                                    .MOROCCO2 H2{
+                                    font-weight: 900;
+                                    font-size: 41PX;
+                                        }
+                                        
+                                        
+                                    
+                                        .MOROCCO2 A{
+                                            position: relative;
+                                            font-weight: 900;
+                                            font-size: 13PX;
+                                            DISPLAY: inline-grid;
+                                            color: #FFFFFF;
+                                            top: 188PX;
+                                            left: 20PX;
+                                        }
+                                        
+                                        .MOROCCO2 A span{
+                                        font-size: 8PX;
+                                        font-weight: 100;
+                                    }
+                                        
+                                                    
+                                                
+                                                        .MOROCCO2 h5{
+                                                            position: ABSOLUTE;
+                                                            font-size: 17PX;
+                                                            font-weight: 900;
+                                                            top: 15PX;
+                                                            color: BLACK;
+                                                            background-color: #FFE81A;
+                                                            left: 20PX;
+                                                            padding: 8PX 11px;
+                                                            border-radius: 10PX;
+                                                        }
+                                                    
+                            
+
+                    .MOROCCO3{ display: none;}
+                    .MOROCCO4{ display: none;}
+
+
+}
+
+
+
+
+@media (max-width: 700px) {
+
+    body{    background-color: #121640;
+    }
+
+    .sponsors{
+        position: absolute;
+        top: 143EM;
+        left: 20%;
+    
+        
+    }
+    
+    .CONTACTUS {
+        position: absolute;
+        top: 117EM;
+        left: 28%;
+    }
+
+    .FOOTER {
+        position: absolute;
+        top: 163EM;
+        LEFT: 40%;
+    }
+.FINDUS {
+    position: absolute;
+    top: 88EM;
+    left: 23%;
+}
+
+.ABOUT {
+    position: absolute;
+    TOP: 73EM;
+    left: 5%;
+}
+.ABOUT P {
+    COLOR: white;
+    position: absolute;
+    width: 220px;
+    left: 210PX;
+    TOP: -167px;
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 27px;
+    align-items: center;
+    text-transform: capitalize;
+    }
+
+    .ABOUT H1 {
+        color: white;
+        POSITION: relative;
+        text-align: center;
+        BOTTOM: 245px;
+        LEFT: 160px;
+    }
+
+
+    .ABOUT IMG {
+        position: absolute;
+        width: 200PX;
+        TOP: -165px;
+    }
+
+
+    .menu{
+        position: absolute;
+        background-image: url('./pexels-maël-balland-13713032.jpg') ;
+        width: 100%;
+        height: 80vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .menu .logo{
+        position: absolute;
+    width: 185PX;
+    TOP: -50PX;
+    left: 13PX;
+    }
+    
+
+
+
+
+
+    .menu ul li{
+        padding: 13px;
+        display: none;
+    
+    }
+    
+
+
+    header {
+        position: absolute;
+        left: 32px;
+        FONT-SIZE: 10px;
+        top: 145px;
+        color: white;
+    }
+
+
+
+
+    header a {
+        color: #121640;
+        background-color: white;
+        padding: 9PX 45PX;
+        MARGIN-TOP: 13px;
+        BORDER-RADIUS: 27PX;
+        border: none;
+        font-weight: 900;
+        position: absolute;
+        transition: 0.7S;
+    }
+
+
+
+
+    header UL {
+        position: absolute;
+        RIGHT: 48PX;
+        top: 28px;
+    }
+
+
+
+    .TOP{
+
+        position: absolute;
+        TOP: 88%;
+        left: 39%;
+    }
+    
+
+    .TOP H1{
+        position: RELATIVE;
+        RIGHT: 60PX;
+        color: white;
+        text-align: center;        
+        }
+        
+
+    .MOROCCO1{
+
+    position: absolute;
+    width: 70%;
+    RIGHT: 245px;
+    TOP: 69px;
+    height: 788%;
+    background: url(morocco-oriental-marrakech-orient.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 17px;
+    filter: brightness(95%);
+    }
+
+    .MOROCCO1 H2,H4{
+        font-weight: 100;
+        position: relative;
+        text-align: center;
+        color: #FFFFFF;
+        TOP: 125px;
+        }
+        
+        
+        .MOROCCO1 H2{
+        font-weight: 900;
+        font-size: 41PX;
+            }
+            
+            
+        
+            .MOROCCO1 A{
+                position: relative;
+                font-weight: 900;
+                font-size: 13PX;
+                DISPLAY: inline-grid;
+                color: #FFFFFF;
+                top: 188PX;
+                left: 20PX;
+            }
+            
+            .MOROCCO1 A span{
+            font-size: 8PX;
+            font-weight: 100;
+        }
+            
+                        
+                    
+                            .MOROCCO1 h5{
+                                position: ABSOLUTE;
+                                font-size: 17PX;
+                                font-weight: 900;
+                                top: 15PX;
+                                color: BLACK;
+                                background-color: #FFE81A;
+                                left: 20PX;
+                                padding: 8PX 11px;
+                                border-radius: 10PX;
+                            }
+                        
+        
+        
+        
+
+
+
+                            .MOROCCO2{
+
+                                position: absolute;
+                                width: 70%;
+                                left: 70px;
+                                TOP: 69px;
+                                height: 788%;
+                                background: url(morocco-africa-city-house-river-dusk-desert-wallpaper-preview.jpg) no-repeat;
+                                background-position: center;
+                                background-size: cover;
+                                border-radius: 17px;
+                                filter: brightness(95%);
+                                }
+                            
+                                .MOROCCO2 H2,H4{
+                                    font-weight: 100;
+                                    position: relative;
+                                    text-align: center;
+                                    color: #FFFFFF;
+                                    TOP: 125px;
+                                    }
+                                    
+                                    
+                                    .MOROCCO2 H2{
+                                    font-weight: 900;
+                                    font-size: 41PX;
+                                        }
+                                        
+                                        
+                                    
+                                        .MOROCCO2 A{
+                                            position: relative;
+                                            font-weight: 900;
+                                            font-size: 13PX;
+                                            DISPLAY: inline-grid;
+                                            color: #FFFFFF;
+                                            top: 188PX;
+                                            left: 20PX;
+                                        }
+                                        
+                                        .MOROCCO2 A span{
+                                        font-size: 8PX;
+                                        font-weight: 100;
+                                    }
+                                        
+                                                    
+                                                
+                                                        .MOROCCO2 h5{
+                                                            position: ABSOLUTE;
+                                                            font-size: 17PX;
+                                                            font-weight: 900;
+                                                            top: 15PX;
+                                                            color: BLACK;
+                                                            background-color: #FFE81A;
+                                                            left: 20PX;
+                                                            padding: 8PX 11px;
+                                                            border-radius: 10PX;
+                                                        }
+                                                    
+                            
+
+                    .MOROCCO3{ display: none;}
+                    .MOROCCO4{ display: none;}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
